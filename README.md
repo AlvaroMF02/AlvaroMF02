@@ -1,6 +1,6 @@
 ### 🍕🍕🍕
 
-Por ahora no hay proyectos importantes, solo estan los ejercicios y proyectos que se hacen en clase :).
+Por ahora no hay proyectos importantes, solo estan los ejercicios y proyectos que se hacen en clase :)
 
 Master de IA y BigData
 
