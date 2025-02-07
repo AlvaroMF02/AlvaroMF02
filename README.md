@@ -1,7 +1,10 @@
 ### 🍕🍕🍕
-Por ahora no hay proyectos importantes, solo estan los ejercicios y proyectos que se hacen en clase :) ...
-Master de IA y BigData ...
-Desarrollo de Aplicaiones Web ...
+
+Por ahora no hay proyectos importantes, solo estan los ejercicios y proyectos que se hacen en clase :).
+
+Master de IA y BigData
+
+Desarrollo de Aplicaiones Web
 <!--
 **AlvaroMF02/AlvaroMF02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
