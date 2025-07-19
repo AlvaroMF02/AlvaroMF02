@@ -1,21 +1,14 @@
-### 🍕🍕🍕
+### ʕ•́ᴥ•̀ʔっ
 
-Por ahora no hay proyectos importantes, solo estan los ejercicios y proyectos que se hacen en clase :)
+## Analista de datos
 
-Master de IA y BigData
+Creando proyectos para mi portafolio :)
 
-Desarrollo de Aplicaiones Web
-<!--
-**AlvaroMF02/AlvaroMF02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo muchos proyectos antiguos de clases porque me da pena quitarlos
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estudios:
+
+ - Especialización en IA y BigData
+
+ - Desarrollo de Aplicaiones Web
