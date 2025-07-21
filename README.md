@@ -6,7 +6,7 @@ Creando proyectos para mi portafolio :)
 
 Tengo muchos proyectos antiguos de clases porque me da pena quitarlos
 
-🔗 Portafolio:[ alvaromf02.github.io](https://alvaromf02.github.io/)
+🔗 [Portafolio](https://alvaromf02.github.io/)
 
 ## Estudios:
 
