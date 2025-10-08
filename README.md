@@ -1,10 +1,10 @@
 ### ʕ•́ᴥ•̀ʔっ
 
-## Analista de datos
+## Analista de Datos y Desarrollador
 
 Creando proyectos para mi portafolio :)
 
-Tengo muchos proyectos antiguos de clases porque me da pena quitarlos
+Tengo muchos proyectos antiguos de clases
 
 🔗 [Portafolio](https://alvaromf02.github.io/)  sin acabar ೨
 
