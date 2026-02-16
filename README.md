@@ -1,4 +1,4 @@
-# Álvaro M.F.
+# Álvaro Flores ꒰ᐢ. .ᐢ꒱
 
 ## Data Analyst | Business Intelligence | Backend Developer
 
@@ -15,7 +15,6 @@ Desarrollo soluciones de análisis, automatización y visualización orientadas 
 📌 Proyectos destacados:
 - PredictCar – Predicción de precios de vehículos con Random Forest y XGBoost
 - Strikewatch – Visualización en tiempo real de rayos con Python + MySQL + Power BI
-- Automatización de tickets vía WhatsApp + Google Sheets
 
 🌐 Portafolio: https://alvaromf02.github.io/
 
