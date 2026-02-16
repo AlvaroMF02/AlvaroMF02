@@ -1,15 +1,27 @@
-### ʕ•́ᴥ•̀ʔっ
+# Álvaro M.F.
 
-## Analista de Datos y Desarrollador
+## Data Analyst | Business Intelligence | Backend Developer
 
-Creando proyectos para mi portafolio :)
+Especializado en Inteligencia Artificial y Big Data.  
+Desarrollo soluciones de análisis, automatización y visualización orientadas a negocio.
 
-Tengo muchos proyectos antiguos de clases
+🔎 Enfoque en:
+- Procesamiento y modelado de datos (Python, SQL)
+- ETL y automatización
+- Machine Learning aplicado
+- Dashboards con Power BI y Grafana
+- Desarrollo de APIs y backend
 
-🔗 [Portafolio](https://alvaromf02.github.io/)  sin acabar ೨
+📌 Proyectos destacados:
+- PredictCar – Predicción de precios de vehículos con Random Forest y XGBoost
+- Strikewatch – Visualización en tiempo real de rayos con Python + MySQL + Power BI
+- Automatización de tickets vía WhatsApp + Google Sheets
 
-## Estudios:
+🌐 Portafolio: https://alvaromf02.github.io/
 
- - Especialización en Inteligencia Artificial y Big Data
+---
 
- - Desarrollo de Aplicaiones Web
+## Formación
+- Máster en Inteligencia Artificial y Big Data (2025)
+- Técnico Superior en Desarrollo de Aplicaciones Web (2024)
+
