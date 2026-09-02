@@ -1,4 +1,4 @@
-# Álvaro Martínez ꒰ᐢ. .ᐢ꒱
+# Álvaro Martínez Flores
 
 ## Data Analyst | Business Intelligence | Backend Developer
 
