@@ -106,7 +106,7 @@ Python · MySQL · Power BI · WebSockets · ETL
 
 <br>
 
-<a href="LINK_REPOSITORIO_STRIKEWATCH">
+<a href="https://github.com/AlvaroMF02/StrikeWatch">
   <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -127,7 +127,7 @@ Python · Pandas · Scikit-learn · XGBoost · EDA
 
 <br>
 
-<a href="LINK_REPOSITORIO_CHURN">
+<a href="https://github.com/AlvaroMF02/Proyecto-Master-DataScience-Evolve-AlvaroMartinez">
   <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -139,12 +139,12 @@ Python · Pandas · Scikit-learn · XGBoost · EDA
 
 <td width="50%">
 
-## ☕ Coffee Shop BI
+## 🪴 Airevis
 
-<img src="assets/coffeeshop.png" width="100%" alt="Coffee Shop Power BI Dashboard"/>
+<img src="assets/airevis.png" width="100%" alt="Coffee Shop Power BI Dashboard"/>
 
-Proyecto de Business Intelligence basado en una base de datos de ventas con más de 300.000 registros.
-
+Proyecto de analisis del estado del aire en Villanueva del Arzobispo, el pueblo mas contaminado de España.
+Usando Api de la Union Europea
 Incluye modelado de datos, SQL, medidas DAX y desarrollo de un informe completo en Power BI.
 
 **Tech Stack**
@@ -152,7 +152,7 @@ Power BI · SQL · MySQL · DAX · Data Modeling
 
 <br>
 
-<a href="LINK_REPOSITORIO_COFFEESHOP">
+<a href="https://github.com/AlvaroMF02/AireVis-VVA">
   <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -162,7 +162,7 @@ Power BI · SQL · MySQL · DAX · Data Modeling
 
 ## 🚗 PredictCar
 
-<img src="assets/predictcar.png" width="100%" alt="Vehicle Price Prediction"/>
+<img src="assets/predictcar.jpg" width="100%" alt="Vehicle Price Prediction"/>
 
 Modelo de Machine Learning orientado a predecir el precio de vehículos a partir de diferentes características.
 
@@ -173,7 +173,7 @@ Python · Scikit-learn · XGBoost · Pandas · Machine Learning
 
 <br>
 
-<a href="LINK_REPOSITORIO_PREDICTCAR">
+<a href="https://github.com/AlvaroMF02/PredictCar">
   <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
