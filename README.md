@@ -144,7 +144,9 @@ Python · Pandas · Scikit-learn · XGBoost · EDA
 <img src="assets/airevis.png" width="100%" alt="Coffee Shop Power BI Dashboard"/>
 
 Proyecto de analisis del estado del aire en Villanueva del Arzobispo, el pueblo mas contaminado de España.
+
 Usando Api de la Union Europea
+
 Incluye modelado de datos, SQL, medidas DAX y desarrollo de un informe completo en Power BI.
 
 **Tech Stack**
