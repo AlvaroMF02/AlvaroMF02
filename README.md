@@ -95,7 +95,9 @@ class AlvaroMartinez:
 
 ## ⚡ StrikeWatch
 
-<img src="assets/strikewatch.png" width="100%" alt="StrikeWatch Dashboard"/>
+<a href="https://github.com/AlvaroMF02/StrikeWatch">
+  <img src="assets/strikewatch.png" width="100%" alt="StrikeWatch Dashboard"/>
+</a>
 
 Sistema de análisis y visualización de rayos en tiempo real utilizando datos recibidos mediante WebSockets.
 
@@ -116,7 +118,9 @@ Python · MySQL · Power BI · WebSockets · ETL
 
 ## 👥 Customer Churn Analysis
 
-<img src="assets/churn.png" width="100%" alt="Customer Churn Analysis"/>
+<a href="https://github.com/AlvaroMF02/Proyecto-Master-DataScience-Evolve-AlvaroMartinez">
+  <img src="assets/churn.png" width="100%" alt="Customer Churn Analysis"/>
+</a>
 
 Proyecto de análisis de clientes orientado a identificar patrones relacionados con el abandono y desarrollar modelos predictivos.
 
@@ -141,7 +145,9 @@ Python · Pandas · Scikit-learn · XGBoost · EDA
 
 ## 🪴 Airevis
 
-<img src="assets/airevis.png" width="100%" alt="Coffee Shop Power BI Dashboard"/>
+<a href="https://github.com/AlvaroMF02/AireVis-VVA">
+  <img src="assets/airevis.png" width="100%" alt="Coffee Shop Power BI Dashboard"/>
+</a>
 
 Proyecto de analisis del estado del aire en Villanueva del Arzobispo, el pueblo mas contaminado de España.
 
@@ -164,7 +170,9 @@ Power BI · SQL · MySQL · DAX · Data Modeling
 
 ## 🚗 PredictCar
 
-<img src="assets/predictcar.jpg" width="100%" alt="Vehicle Price Prediction"/>
+<a href="https://github.com/AlvaroMF02/PredictCar">
+  <img src="assets/predictcar.jpg" width="100%" alt="Vehicle Price Prediction"/>
+</a>
 
 Modelo de Machine Learning orientado a predecir el precio de vehículos a partir de diferentes características.
 
